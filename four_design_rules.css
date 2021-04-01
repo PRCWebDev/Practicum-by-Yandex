@@ -35,7 +35,8 @@ body, h1, h2, h3, h4, p, a {
     width: 350px;
     background-color: #e3f3ff;
     margin-bottom: 60px;
-    }
+    padding: 45px 45px 70px;
+  }
   
   .card-title {
     font-size: 24px;
